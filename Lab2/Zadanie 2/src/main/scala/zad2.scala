@@ -1,0 +1,3 @@
+object zad2 {
+
+}
